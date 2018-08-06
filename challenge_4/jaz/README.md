@@ -1,9 +1,4 @@
-# Challenge 3 - Team Alpha
-
-___
-
-## How to Run:
-1. Run `npm install` in the root of project folder
-2. Run `gulp` to run default tasks: `styles` and `html`
-3. The Browser should auto refresh
-4. Output files will be created in `dist/`
+1. Download or clone the file
+2. Open the terminal and go to the flolder you just downloaded
+3. Install node_modules by typing command `npm install`
+4. Run the code by typing command `gulp`, and hit `Ctrl + C` to exit the editing mode
